@@ -4,12 +4,12 @@
 - Correo: ferkamen92@gmail.com
 
 # Actividad 1
-- Programa 1
-- programa 2
-- Programa 2
+- p01_HolaMundo.java
+- p02_AreaCirculo.java
+- po3_AreaTriangulo.java
 
 # Actividad 2
-- Programa 4
+- p04_PagaTrabajador.java
 - Programa 5
 
 # Actividad 3
