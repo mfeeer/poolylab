@@ -28,3 +28,5 @@
 - p016_TrabajandoEnteros.java
 - p017_TrabajandoFlotantes.java
 - p018_TrabajandoConstantes.java
+- p019_TrabajandoCaracteres.java
+- p020_ConversionTipos.java
