@@ -2,15 +2,15 @@
  * Trabajando con caracteres 
 
 */
-public class p19_TrabajandoCaracteres {
+public class p019_TrabajandoCaracteres {
     public static void main(String[] args) {
-            Character c1 = 'A', c2 = 'B';
-            Character numero = '9';
-            Character arroba = '@';
-            Character pesos = 36;
-            Character corazon = '\u2665';
-            Character letraw = 119;
-            Character espacio = ' ';
+            char c1 = 'A', c2 = 'B';
+            char numero = '9';
+            char arroba = '@';
+            char pesos = 36;
+            char corazon = '\u2665';
+            char letraw = 119;
+            char espacio = ' ';
             System.out.print("\033[H\033[2J"); System.out.flush();
             System.out.println(c1);
             System.out.println(c2);
@@ -24,6 +24,9 @@ public class p19_TrabajandoCaracteres {
             System.out.println(c1);
             System.out.println(c2);
             System.out.println(numero);
+            System.out.printf("c1 y c2 : %c  %c \n", c1, c2);
+            System.out.printf("Los valores de c1 y c2 como enteros : " + Integer.toString(c1) + " " + Integer.toString(c2));
+            System.out.println();
             System.out.println(Character.isLetter(c1)); // True
             System.out.println(Character.isDigit(numero)); // True
             System.out.println(Character.isAlphabetic(pesos)); // False

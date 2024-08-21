@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class po3_AreaTriangulo {
+public class p03_AreaTriangulo {
     public static void main(String[] args) {
         int base, altura;
         double area;

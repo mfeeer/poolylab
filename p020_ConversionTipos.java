@@ -1,7 +1,7 @@
  /**
  * Conversion entre tipos de datos en Java
  */
-public class p20_ConversionTipos {
+public class p020_ConversionTipos {
     public static void main(String[] args) {
             // Conversión implicita: de pequeño a grande
             int var1 = 9;
