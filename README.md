@@ -33,3 +33,13 @@
 
 # Actividad 4
 -p021_EjecucionCondicional.java
+-p022_EjecucionCondicional.java
+-p023_ConvertirTemperaturaV2.java
+-p024_PagaTrabajadorV2.java
+
+# Actividad 5
+- p025_EstacionesAño.java
+- p026_TipoAngulo.java
+- p027_AceptarEstudiante.java
+- p028_LeyDeNewton.java
+
