@@ -43,3 +43,13 @@
 - p027_AceptarEstudiante.java
 - p028_LeyDeNewton.java
 
+# Actividad 6
+- p029_Calculadora.java
+- p030_DiaSemana.java
+- p031_NumerosRomanos.java
+- p032_PagoEstacionamiento.java
+
+# Practica 2
+- p033_NumerosConsecutivos.java
+- p034_NumeroMayor.java
+
