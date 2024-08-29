@@ -52,4 +52,15 @@
 # Practica 2
 - p033_NumerosConsecutivos.java
 - p034_NumeroMayor.java
+- p035_ContinentesMundo.java
+- p036_ComprarPizza.java
+- p037_CalculoNotas.java
+- p038_AceptarEstudianteV2.java
 
+
+# Actividad 7
+- p039_Numeros1a100.java
+- p040_Numeros100a1.java
+- p041_ProcesaCalificaciones.java
+- p042_TablaMultiplicar.java
+- p043_ConteoNumeros.java

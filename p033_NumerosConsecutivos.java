@@ -13,7 +13,7 @@ public class p033_NumerosConsecutivos {
         System.out.print("Introduce el tercer número entero: "); num3 = obj.nextInt();
 
         if (num2 == num1 + 1 && num3 ==num2 + 1){  
-        System.out.println("Los números son consecutivos");
+            System.out.println("Los números son consecutivos");
 
         } else {   
         System.out.println("Los números no son consecutivos");
