@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class p041_ProcesaCalificaciones {
     public static void main (String[] args) {
         int n, c;
-        float cal, suma, prom;
+        float cal, suma=0, prom=0;
         Scanner obj = new Scanner (System.in);
 
         System.out.print("\033[H\033[2J"); System.out.flush();//limpia la pantalla
@@ -14,12 +14,12 @@ public class p041_ProcesaCalificaciones {
 
         c = 1;
         while (c<=n)  {
-            System.out.print("Calificación %d = ", c);
+            System.out.printf("Calificación %d = ", c);
             cal = obj.nextFloat();
             suma = suma + cal;
             c++;
         }
         prom = suma / n;
-        System.out.priny("La suma es:   ")
+        System.out.printf("La suma es:   ");
     }
-}
+}  

@@ -64,3 +64,8 @@
 - p041_ProcesaCalificaciones.java
 - p042_TablaMultiplicar.java
 - p043_ConteoNumeros.java
+
+# Actividad 8
+- p044_ParesAscendentes.java
+- p045_ImparesDescentes.java
+- p046_TablaConversion.java
