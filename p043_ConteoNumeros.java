@@ -23,7 +23,7 @@ public class p043_ConteoNumeros {
         } while (n!= 999);
             System.out.printf("Introdujiste : %d numeros", c);
             System.out.printf("\nLa suma es : %d ", s);
-            System.out.printf("\nPositivos: %d\nNegativos:%d\nCeros: %dn ",cp, cn, cc);
+            System.out.printf("\nPositivos: %d\nNegativos:%d\nCeros: %d ",cp, cn, cc);
 
 
         }

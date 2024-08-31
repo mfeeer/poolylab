@@ -21,8 +21,11 @@ public class p044_ParesAscendentes {
                 s += c;
                 c += 2;
             }
-            System.out.printf("")
-        }
+            System.out.printf("\nLa suma de los pares hasta %d es %d", n, s);
+            System.out.printf("\nDeas continuar? (S/N)"); resp = Character.toUpperCase(obj.next().charAt(0));
+        } while (resp != 'N');
+        System.out.println("\nProceso terminado");
+
     }
     
 }

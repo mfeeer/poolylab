@@ -69,3 +69,4 @@
 - p044_ParesAscendentes.java
 - p045_ImparesDescentes.java
 - p046_TablaConversion.java
+- p047_ConjeturaCollatz.java
