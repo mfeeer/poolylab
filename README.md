@@ -70,3 +70,16 @@
 - p045_ImparesDescentes.java
 - p046_TablaConversion.java
 - p047_ConjeturaCollatz.java
+
+# Practica 3
+- p048_ImparesAscendente.java
+- p049_ParesDescendente.java
+- p050_ConversionTemperatura.java
+- p051_SerieFibonaci.java
+
+# Actividad 9
+-p052_Numeros1aN.java
+-p053_NumerosNa1.java
+-p054_ArribaAbajo.java
+-p055_SumaParesImpares.java
+-p056_SumaPromedio.java
