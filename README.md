@@ -83,3 +83,9 @@
 -p054_ArribaAbajo.java
 -p055_SumaParesImpares.java
 -p056_SumaPromedio.java
+
+# Actividad 10
+- p057_TablasMultiplicar.java
+- p058_Piramide.java
+- p059_FactorialNumero.java
+- p060_SumaTerminos.java

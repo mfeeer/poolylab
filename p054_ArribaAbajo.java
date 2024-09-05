@@ -25,7 +25,7 @@ public class p054_ArribaAbajo {
                 for (int i = n; i >= 1; i--) System.out.print(i + " ");
                 break;
             case 3:
-                System.out.println("\nHaz decidido salir del sistema..\n");
+                System.out.println("\nHaz decidido salir del sistema....\n");
                 break;
             default:
                 System.out.println("Opción inválida");
@@ -33,11 +33,7 @@ public class p054_ArribaAbajo {
 
         }
         System.out.println("\nProceso terminado.");
-
-
-
-
-
+        obj.close();
 
     }   
    
