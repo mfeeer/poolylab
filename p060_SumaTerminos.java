@@ -21,7 +21,7 @@
              }
              
              s = s + 1 / f;
-             System.out.printf("%.0f + ", f); 
+             System.out.printf("%.0f ", f); 
              System.out.printf("= %.2f ", 1 / f); 
              System.out.println();
          }

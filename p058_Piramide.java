@@ -20,7 +20,7 @@ public class p058_Piramide {
 
             System.out.println();
 
-        }
+        } 
         obj.close();
     }   
 }

@@ -8,7 +8,6 @@ public class p059_FactorialNumero {
         System.out.print("\033[H\033[2J"); System.out.flush();
         System.out.print("¿Hasta qué número desea el factorial? "); int n = new Scanner (System.in).nextInt();
         
-        
         for (int i = 1; i <= n; i++) {
             int f= 1;
             System.out.printf("%d! = ", i);
