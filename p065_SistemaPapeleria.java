@@ -75,4 +75,3 @@ resumen de ventas con un mensaje de acuerdo a la venta total
          } System.out.println("Fin del programa....");
      }
  }
- 

@@ -97,4 +97,5 @@
 - p064_SumaTerminos2.java
 
  # Practica 5
- - p065_SistemaPapeleria.java
+- p065_SistemaPapeleria.java
+- p066_PrimerExamenParcial.java
