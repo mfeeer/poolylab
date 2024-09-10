@@ -5,7 +5,6 @@ public class p066_PrimerExamenParcial {
         String nombre;
         int edad, edadTotal = 0, alumnos = 0, totalAlumnos = 0, docentes = 0, totalDocentes = 0, trabajadores = 0,totalTrabajadores = 0, mujer = 0, totalMujeres = 0, hombre = 0, totalHombres = 0, pagoAlumnos =0, pagoDocentes = 0, pagoTrabajadores = 0, totalPago = 0;
         char opcion, resp = 's';
-        boolean repite = true;
         Scanner obj = new Scanner (System.in);
 
         System.out.print("\033[H\033[2J"); System.out.flush();
