@@ -99,3 +99,10 @@
  # Practica 5
 - p065_SistemaPapeleria.java
 - p066_PrimerExamenParcial.java
+
+# Actividad 11
+- p067_PromedioNumeros.java
+- p068_ConversionTemperatura.java
+- p069_SumaRango.java
+- p070_TablasMultiplicar.java
+- p071_CalificacionLetra.java
