@@ -106,3 +106,10 @@
 - p069_SumaRango.java
 - p070_TablasMultiplicar.java
 - p071_CalificacionLetra.java
+
+# Actividad 12
+- p072_MaoyrTresnumeros.java
+- p073_SumaDigitos.java
+- p074_SumaParesImpares.java
+- p075_Factorial.java
+- p076_CuadroCaracter.java
