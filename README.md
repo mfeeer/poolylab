@@ -113,3 +113,10 @@
 - p074_SumaParesImpares.java
 - p075_Factorial.java
 - p076_CuadroCaracter.java
+
+# Practica 6
+- p077_NumeroMenor.java
+- p078_DiaSemana.java
+- p079_MedidasLongitud.java
+- p080_SumaMultiplos.java
+- p081_Angulo.java
