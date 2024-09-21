@@ -120,3 +120,10 @@
 - p079_MedidasLongitud.java
 - p080_SumaMultiplos.java
 - p081_Angulo.java
+
+# Actividad 13
+- p082_InicializaArregloNumeros.java
+- p083_InicializaArregloCadenas.java
+- p084_InicializaNombreEdades.java
+- p085_PromedioArreglo.java
+- p086_NombresEdades.java
