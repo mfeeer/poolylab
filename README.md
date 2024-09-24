@@ -127,3 +127,9 @@
 - p084_InicializaNombreEdades.java
 - p085_PromedioArreglo.java
 - p086_NombresEdades.java
+
+# Actividad 14
+- p087_ArregloMostrar.java
+- p088_ArregloTemperaturas.java
+- p089_Aleatorios.java
+- p090_ArreglosAleatorios.java
