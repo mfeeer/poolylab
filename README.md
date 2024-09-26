@@ -133,3 +133,10 @@
 - p088_ArregloTemperaturas.java
 - p089_Aleatorios.java
 - p090_ArreglosAleatorios.java
+
+# Practica 7
+- p091_Temperaturas.java
+- p092_MayoresPromedio.java
+- p093_MayorMenor.java
+- p094_ParesImpares.java
+
