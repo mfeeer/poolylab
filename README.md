@@ -140,3 +140,13 @@
 - p093_MayorMenor.java
 - p094_ParesImpares.java
 
+# Actividad 15
+-p095_Empleado01
+-p096_Empleado02
+-p097_Empleado03
+-p098_Empleado04
+
+# Practica 8
+- p099_Circulo.java
+- p100_Rectangulo.java
+- p101_Articulo.java
