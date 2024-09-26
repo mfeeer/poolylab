@@ -1,7 +1,9 @@
 package p095_Empleado01;
+
+
 //Programa principal
 
-public class app {
+public class App {
     public static void main(String[] args) {
         Empleado empleado1 = new Empleado(); //instanciar una clase
         Empleado empleado2 = new Empleado(); //instanciar una clase
@@ -32,3 +34,4 @@ public class app {
 
     
 }
+

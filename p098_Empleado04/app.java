@@ -1,7 +1,7 @@
 package p098_Empleado04;
 
 import java.util.ArrayList;
-public class app {
+public class App {
     public static void main(String[] args) {
         ArrayList<Empleado> empleados = new ArrayList<>();
         int h = 0, m = 0, s = 0, c = 0;

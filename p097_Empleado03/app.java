@@ -1,6 +1,6 @@
 package p097_Empleado03;
 
-public class app {
+public class App {
     public static void main(String[] args) {
         Empleado empleado1 = new Empleado("Juan Pérez", 25);
         Empleado empleado2 = new Empleado("Nepomuseno", 1);
