@@ -150,3 +150,8 @@
 - p099_Circulo.java
 - p100_Rectangulo.java
 - p101_Articulo.java
+
+# Actividad 16
+- p102_TrabajoPersona
+- p103_AutorLibro
+- p103_ClienteFactura
