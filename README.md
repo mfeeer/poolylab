@@ -152,6 +152,6 @@
 - p101_Articulo.java
 
 # Actividad 16
-- p102_TrabajoPersona
-- p103_AutorLibro
-- p103_ClienteFactura
+- p102_Persona
+- p103_Autor
+- p104_ClienteFactura

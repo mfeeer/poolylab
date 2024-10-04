@@ -2,38 +2,44 @@ package p104_ClienteFactura;
 
 public class Factura {
     private int Id;
-    private Cliente Cliente;
     private double Monto;
-    public Factura(int id, Cliente cliente, double monto) {
-        Id = id;
-        Cliente = cliente;
-        Monto = monto;
+    private Cliente Cliente;
+
+    public Factura() {
     }
+
+    public Factura(int id, double monto, Cliente cliente) {
+        Id = id;
+        Monto = monto;
+        Cliente = cliente;
+    }
+
     public int getId() {
         return Id;
     }
+
     public void setId(int id) {
         Id = id;
     }
-    public Cliente getCliente() {
-        return Cliente;
-    }
-    public void setCliente(Cliente cliente) {
-        Cliente = cliente;
-    }
+
     public double getMonto() {
         return Monto;
     }
+
     public void setMonto(double monto) {
         Monto = monto;
     }
-    public double getMontoDespuesDeDescuento() {
-        Monto = Monto - Monto * Cliente.getDescuento() /100.0;
-        return Monto;
+
+    public Cliente getCliente() {
+        return Cliente;
     }
+
+    public void setCliente(Cliente cliente) {
+        Cliente = cliente;
+    }
+
     @Override
     public String toString() {
-    return "Factura [Id=" + Id + ", Cliente=" + Cliente
-    + ", Monto=" + Monto + "]";
+        return "Factura [Id=" + Id + ", Monto=" + Monto + ", Cliente=" + Cliente + "]";
     }
 }
