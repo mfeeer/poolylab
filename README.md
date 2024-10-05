@@ -155,3 +155,7 @@
 - p102_Persona
 - p103_Autor
 - p104_ClienteFactura
+ 
+ # Practica 9
+ - p105_PuntoCirculo
+ - p106_PuntoTriangulo
