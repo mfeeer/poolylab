@@ -159,3 +159,8 @@
  # Practica 9
  - p105_PuntoCirculo
  - p106_PuntoTriangulo
+
+ # Actividad 16
+ - p107_Persona
+ - p108_Forma
+ 
