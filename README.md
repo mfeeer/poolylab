@@ -160,7 +160,13 @@
  - p105_PuntoCirculo
  - p106_PuntoTriangulo
 
- # Actividad 16
+ # Actividad 17
  - p107_Persona
  - p108_Forma
  
+ # Practica 10
+ - p109_Vehiculo
+ - p110_FormaV2
+
+# Actividad 18
+- p111_CuentaBancariaV1
