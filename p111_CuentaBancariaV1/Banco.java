@@ -13,7 +13,7 @@ public class Banco {
         Nombre = nombre;
         Domicilio = domicilio;
     }
-    public void agregarCliente(Cliente cliente) {
+    public void agregarCliente(CuentaBancariaV2.Cliente cliente) {
         Clientes.add(cliente);
     }
     public ArrayList<Cliente> getClientes() {
@@ -22,5 +22,13 @@ public class Banco {
     @Override
     public String toString() {
         return "Banco [Nombre=" + Nombre + ", Domicilio=" + Domicilio + ", Clientes=" + Clientes.size() + "]";
+    }
+    public void reporte() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'reporte'");
+    }
+    public void calcularInteres() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'calcularInteres'");
     }
 }   

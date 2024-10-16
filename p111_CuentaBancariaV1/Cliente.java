@@ -1,5 +1,8 @@
 package p111_CuentaBancariaV1;
 
+import CuentaBancariaV2.CuentaDeAhorro;
+import CuentaBancariaV2.CuentaDeCheques;
+
 public class Cliente {
     private String Nombre;
     private CuentaBancaria Cuenta;
@@ -22,6 +25,14 @@ public class Cliente {
     @Override
     public String toString(){
         return "Cliente [ Nombre= " + Nombre + ", Cuenta Saldo = " + Cuenta.getSaldo() +"]";
+    }
+    public void agregarCuenta(CuentaDeCheques cuentaDeCheques) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'agregarCuenta'");
+    }
+    public void agregarCuenta(CuentaDeAhorro cuentaDeAhorro) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'agregarCuenta'");
     }
     
 }
