@@ -1,29 +1,26 @@
 package p111_CuentaBancariaV1;
 
 import java.util.ArrayList;
-
 public class Banco {
-    private String nombre;
-    private String domicilio;
-    private ArrayList<Cliente> clientes;
-
+    private String Nombre;
+    private String Domicilio;
+    private ArrayList<Cliente> Clientes;
     public Banco(){
-        clientes = new ArrayList<>();   
+        Clientes = new ArrayList<>();
     }
-    public Banco(String nombre, String domicilio){
-        this(); //Invoca al constructor vacío de la misma clase
-        this.nombre = nombre;
-        this.domicilio = domicilio;
+    public Banco(String nombre, String domicilio) {
+        this();
+        Nombre = nombre;
+        Domicilio = domicilio;
     }
     public void agregarCliente(Cliente cliente) {
-        cliente.add(cliente);
+        Clientes.add(cliente);
     }
-    public ArrayList<Cliente> getClientes(){
-        return clientes;
+    public ArrayList<Cliente> getClientes() {
+        return Clientes;
     }
     @Override
     public String toString() {
-        return "Banco [Nombre=" + nombre + ", Domicilio=" + domicilio + ", Clientes=" + clientes.size()"]";
+        return "Banco [Nombre=" + Nombre + ", Domicilio=" + Domicilio + ", Clientes=" + Clientes.size() + "]";
     }
-    
 }   

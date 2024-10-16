@@ -16,6 +16,10 @@ public class CuentaBancaria {
     }
 
     public boolean retira(double cantidad){
-        if (saldo>= )
+        if (saldo>=cantidad ){
+            saldo = saldo - cantidad;
+            return true;
+        }
+        return false;
     }
 }

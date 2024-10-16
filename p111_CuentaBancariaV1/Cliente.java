@@ -1,34 +1,27 @@
 package p111_CuentaBancariaV1;
 
 public class Cliente {
-    private String nombre;
-    private CuentaBancaria cuenta;
-
-    public Cliente (String nombre, CuentaBancaria cuenta){
-        this.nombre = nombre;
-        this.cuenta = cuenta;
+    private String Nombre;
+    private CuentaBancaria Cuenta;
+    public Cliente(String nombre, CuentaBancaria cuenta){
+        Nombre = nombre;
+        Cuenta = cuenta;
     }
-
-    public String getNombre() {
-        return nombre;
+    public String getNombre(){
+        return Nombre;
     }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
+    public void setNombre(String nombre){
+        Nombre = nombre;
     }
-
-    public CuentaBancaria getCuenta() {
-        return cuenta;
+    public CuentaBancaria getCuenta(){
+        return Cuenta;
     }
-
     public void setCuenta(CuentaBancaria cuenta) {
-        this.cuenta = cuenta;
+        Cuenta = cuenta;
     }
-
     @Override
-    public String toString() {
-        return "Cliente [nombre=" + nombre + ", cuenta=" + cuenta + "]";
+    public String toString(){
+        return "Cliente [ Nombre= " + Nombre + ", Cuenta Saldo = " + Cuenta.getSaldo() +"]";
     }
-
     
 }
