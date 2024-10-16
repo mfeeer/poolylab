@@ -23,7 +23,7 @@ public class CuentaBancaria {
         return false;
     }
 
-    public CuentaBancariaV2.CuentaBancaria get(int i) {
+    public p112_CuentaBancariaV2.CuentaBancaria get(int i) {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'get'");
     }

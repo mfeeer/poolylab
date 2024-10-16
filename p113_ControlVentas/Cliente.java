@@ -19,7 +19,6 @@ public class Cliente {
         Ventas.add (venta);
     }
     
-
     public ArrayList<Venta> getVentas() {
         return Ventas;
     }

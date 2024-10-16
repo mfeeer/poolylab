@@ -18,6 +18,7 @@ public abstract class Venta {
     public String toString() {
         return "Venta [Articulo=" + Articulo + ", Cantidad=" + Cantidad + ", Precio=" + Precio + ", Total=" + Total
                 + "]";
+                
     }
     
     

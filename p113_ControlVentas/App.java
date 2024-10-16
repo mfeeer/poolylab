@@ -14,7 +14,7 @@ public class App {
         miTienda.getClientes().get(1).agregarVenta(new VentaCredito("Clavo", 2, 160.34, 50, 0.20));
         miTienda.getClientes().get(1).agregarVenta(new VentaCredito("Cinta", 5, 71.34, 6, 0.20));
         miTienda.getClientes().get(1).agregarVenta(new VentaContado("Pinza", 10, 650.33, 0.20, "Taladro"));
-
+        
         miTienda.getClientes().get(2).agregarVenta(new VentaContado("Thiner", 50, 65.00, 0.10, "Aerosol"));
 
         System.out.print("\033[H\033[2J");

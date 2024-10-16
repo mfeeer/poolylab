@@ -9,7 +9,6 @@ public class VentaContado extends Venta {
         Descuento = descuento;
         Regalo = regalo;
     }
-
     public double getTotalVenta(){
         Total = Total - (Total * Descuento);
         return Total;

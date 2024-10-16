@@ -1,7 +1,7 @@
 package p111_CuentaBancariaV1;
 
-import CuentaBancariaV2.CuentaDeAhorro;
-import CuentaBancariaV2.CuentaDeCheques;
+import p112_CuentaBancariaV2.CuentaDeAhorro;
+import p112_CuentaBancariaV2.CuentaDeCheques;
 
 public class Cliente {
     private String Nombre;

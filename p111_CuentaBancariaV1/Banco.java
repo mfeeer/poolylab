@@ -13,7 +13,7 @@ public class Banco {
         Nombre = nombre;
         Domicilio = domicilio;
     }
-    public void agregarCliente(CuentaBancariaV2.Cliente cliente) {
+    public void agregarCliente(p112_CuentaBancariaV2.Cliente cliente) {
         Clientes.add(cliente);
     }
     public ArrayList<Cliente> getClientes() {

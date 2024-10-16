@@ -1,4 +1,4 @@
-package CuentaBancariaV2;
+package p112_CuentaBancariaV2;
 
 public class CuentaDeAhorro extends CuentaBancaria {
     private double TasaInteres;

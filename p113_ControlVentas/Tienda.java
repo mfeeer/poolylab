@@ -14,6 +14,7 @@ public class Tienda {
         Nombre = nombre;
         Propietario = propietario;
         Domicilio = domicilio;
+        
     }
     public void agregarCliente(Cliente cliente) {
         Clientes.add(cliente);
