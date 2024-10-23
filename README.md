@@ -180,3 +180,6 @@ p112_CuentaBancariaV2
 # Practica 12
 - p114_SegundoExamenParcial
 
+# Actividad 20 - Interfaces
+- p114_Animal
+
