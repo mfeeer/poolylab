@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) {
         Circulo miCirculo = new Circulo(100);
 
-
+        System.out.println("\033[H\033[2J");
         System.out.println("Probando circulo: ");
         System.out.println(miCirculo);
         miCirculo.ajustar(0.03);

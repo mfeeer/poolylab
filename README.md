@@ -182,4 +182,12 @@ p112_CuentaBancariaV2
 
 # Actividad 20 - Interfaces
 - p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
+
+# Actividad 21- Herencia en Interfaces
+- p118_Calculadora
+- p119_Organismo
+
 

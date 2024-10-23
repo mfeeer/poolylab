@@ -2,7 +2,7 @@ package p119_Organismo;
 
 public class App {
     public static void main (String[] args) {
-        Perro miperro = new Perro ("bombon");
+        Perro miperro = new Perro ("Bombon");
         Perico miperico = new Perico ("Gus Gus");
 
         System.out.println("\033[H\033[2J");
