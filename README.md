@@ -202,5 +202,18 @@ p112_CuentaBancariaV2
 - p126_Excepcion6.java
 - p127_MiExcepcion.java
 
+# Practica 13 - Manejo de excepciones
+- p128_ExcepcionRaiz.java
+- p129_ExcepcionDulces.java
+- p130_ExcepcionEdades.java
+- p131_ExcepcionTemperatura.java
+
+# Actividad 23 - Manejo de archivos
+- p132_Archivos1.java
+- p133_Archivos2.java
+- p134_Archivos3.java
+- p135_Archivos4.java
+- p136_Archivos5.java
+
 
 
