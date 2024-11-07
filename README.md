@@ -215,5 +215,16 @@ p112_CuentaBancariaV2
 - p135_Archivos4.java
 - p136_Archivos5.java
 
+# Practica 14
+- p137_ArchivoMunicipios.java
+- p138_ArchivoMaterias.java
+- p139_ArchivoEstudiante
+
+
+# Actividad 24
+- p140_HolaMundoGUI
+- p141_AreaTrianguloGUI
+- p142_LeyDeNewtonGUI
+
 
 
