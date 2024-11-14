@@ -226,9 +226,12 @@ p112_CuentaBancariaV2
 - p141_AreaTrianguloGUI
 - p142_LeyDeNewtonGUI
 
-# Practica 15
+# Practica 15 - Interfaz gráfica - parte 1
 - p143_PagaTrabajador
 - p144_Temperaturas
 
+# Actividad 25 - Interfaz gráfica - parte 2
+- p145_EstudianteGUI_V1
+- p146_EstudianteGUI_V2
 
 
