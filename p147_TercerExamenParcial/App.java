@@ -54,8 +54,8 @@ public class App extends JFrame implements ActionListener {
         spane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
         pnlTabla.add(spane);
         table = new JTable();
-        table.getTableHeader().setBackground(Color.pink);
-        table.getTableHeader().setForeground(Color.black);
+        table.getTableHeader().setBackground(Color.orange);
+        table.getTableHeader().setForeground(Color.blue);
         spane.setViewportView(table);
         modelo = new DefaultTableModel();
         modelo.setColumnIdentifiers(new String[]{"Nombre","Edad","Sexo","Estado Civil", "Descripcion", "Salario"});
