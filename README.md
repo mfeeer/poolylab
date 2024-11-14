@@ -233,5 +233,6 @@ p112_CuentaBancariaV2
 # Actividad 25 - Interfaz gráfica - parte 2
 - p145_EstudianteGUI_V1
 - p146_EstudianteGUI_V2
+- p147_TercerExamenParcial
 
 
